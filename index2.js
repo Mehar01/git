@@ -1,1 +1,1 @@
-console.log("wanna amend in 2V");
+console.log("wanna amend in 66V");
